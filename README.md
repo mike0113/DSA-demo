@@ -1,2 +1,2 @@
-# DSA-Demo
-112 Data Structure and Algorithm Demo
+# DSA-demo
+112 Data Structure and Algorithm demo
