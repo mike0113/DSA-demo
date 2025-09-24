@@ -1,6 +1,7 @@
 # DSA-demo
 
-This repository is a collection of demo code and practical examples for the Data Structures and Algorithms (DSA) class in NCNU. All projects are implemented in C++ using the Qt framework, and are designed to illustrate essential DSA concepts through interactive or visual applications.
+This repository is a collection of demo code and practical examples for the Data Structures and Algorithms (DSA) class in NCNU. 
+All projects are implemented in C++ using the Qt framework, and are designed to illustrate essential DSA concepts through interactive or visual applications.
 
 ## Repository Structure
 
@@ -29,7 +30,6 @@ The codebase is organized into four main directories, each containing subfolders
 
 ### Demo4: Graph Algorithms & Miscellaneous
 - **Alarm_Clock.cpp**: A standalone C++ program—possibly an algorithmic simulation or utility.
-- **a.exe**: Compiled executable of one of the demos (Windows binary).
 - **dijkstra_algorithm**: Shortest path finding with Dijkstra’s algorithm.
 - **directed_graph**: Operations and visualizations for directed graphs.
 - **floyd_warshall_algorithm**: All-pairs shortest path using Floyd-Warshall algorithm.
@@ -50,5 +50,3 @@ This repository aims to:
 - **Qt framework**
 
 ---
-
-> **Note:** This repository is intended for educational use and class demonstrations. Each subfolder contains focused examples for a specific algorithm or data structure, often with interactive or visual elements when run within a Qt application.
